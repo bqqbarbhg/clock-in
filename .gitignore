@@ -1,3 +1,7 @@
 
+# Node dependency sources/binaries
 node_modules/
+
+# Webpack output
+build/
 
