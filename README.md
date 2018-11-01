@@ -1,9 +1,6 @@
 
-Setup instructions
-
 ```bash
 git clone https://github.com/bqqbarbhg/clock-in
-cd clock-in
 ```
 
 Setup the server
